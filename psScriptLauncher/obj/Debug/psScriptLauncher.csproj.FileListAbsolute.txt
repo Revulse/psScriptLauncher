@@ -1,0 +1,10 @@
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\bin\Debug\psScriptLauncher.exe.config
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\bin\Debug\psScriptLauncher.exe
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\bin\Debug\psScriptLauncher.pdb
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.Form1.resources
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.Properties.Resources.resources
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.csproj.GenerateResource.cache
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.csproj.CoreCompileInputs.cache
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.exe
+c:\users\jdegolyer\documents\visual studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.pdb
+C:\Users\jdegolyer\Documents\Visual Studio 2017\_Projects\psScriptLauncher\psScriptLauncher\obj\Debug\psScriptLauncher.csprojAssemblyReference.cache
